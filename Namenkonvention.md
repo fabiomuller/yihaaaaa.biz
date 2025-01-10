@@ -113,13 +113,3 @@
 - **Funktion:** Es gibt nur 1 zentrale Firewall, die den gesamten Internetzugang der Firma absichert.
 - **Gesamt:** 1 Firewall.
 
-# Zusammenfassung der Geräte pro Abteilung
-
-| Gerät         | Anzahl pro Abteilung  | Gesamtanzahl |
-| ------------- | --------------------- | ------------ |
-| Server        | 1                     | 4            |
-| Drucker       | 1                     | 4            |
-| Switch        | 1                     | 4            |
-| Access Points | Variiert (siehe oben) | 6            |
-| Firewall      | Zentral (1 für alle)  | 1            |
-| Router        | Zentral (1 für alle)  | 1            |
