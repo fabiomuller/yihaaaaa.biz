@@ -57,7 +57,15 @@
 - IT-Abteilung-LP-8
 - IT-Abteilung-LP-9
 
-### Sitzungszimmer: 0 Laptops
+### Sitzungszimmer: 8 Laptops
+- Sitzungszimmer-LP-1
+- Sitzungszimmer-LP-2
+- Sitzungszimmer-LP-3
+- Sitzungszimmer-LP-4
+- Sitzungszimmer-LP-5
+- Sitzungszimmer-LP-6
+- Sitzungszimmer-LP-7
+- Sitzungszimmer-LP-8
 
 ## Docking Station: `<Abteilung>-DS-<Nummer>` (z. B. GL-DS-01)
 
