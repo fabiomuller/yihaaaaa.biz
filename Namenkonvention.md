@@ -162,5 +162,3 @@
 ## Firewall: `FW-CORE`
 - **Funktion:** Es gibt nur 1 zentrale Firewall, die den gesamten Internetzugang der Firma absichert.
 - **Gesamt:** 1 Firewall.
-
-
