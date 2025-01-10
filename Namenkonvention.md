@@ -125,7 +125,6 @@
 - Sitzungszimmer-DS-6
 - Sitzungszimmer-DS-7
 - Sitzungszimmer-DS-8
-- Sitzungszimmer-DS-9
 
 ## Server: `<Abteilung>-SRV` (z. B. MK-SRV)
 - Geschäftsleitung/Finanzen-SRV
