@@ -57,6 +57,8 @@
 - IT-Abteilung-LP-8
 - IT-Abteilung-LP-9
 
+### Sitzungszimmer: 0 Laptops
+
 ## Docking Station: `<Abteilung>-DS-<Nummer>` (z. B. GL-DS-01)
 
 ### Geschäftsleitung/Finanzen: 7 Docking Stations
@@ -114,6 +116,16 @@
 - IT-Abteilung-DS-8
 - IT-Abteilung-DS-9
 
+### Sitzungszimmer: 8 Docking Stations
+- Sitzungszimmer-DS-1
+- Sitzungszimmer-DS-2
+- Sitzungszimmer-DS-3
+- Sitzungszimmer-DS-4
+- Sitzungszimmer-DS-5
+- Sitzungszimmer-DS-6
+- Sitzungszimmer-DS-7
+- Sitzungszimmer-DS-8
+
 ## Server: `<Abteilung>-SRV` (z. B. MK-SRV)
 - Geschäftsleitung/Finanzen-SRV
 - Marketing/Verkauf-SRV
@@ -125,18 +137,15 @@
 - Marketing/Verkauf-PRT
 - Produktion/Vertrieb-PRT
 - IT-Abteilung-PRT
+- **Hinweis:** Kein Drucker im Sitzungszimmer.
 
 ## Switch: `<Abteilung>-SW` (z. B. PV-SW)
-- Geschäftsleitung/Finanzen-SW-1
-- Geschäftsleitung/Finanzen-SW-2
-- Marketing/Verkauf-SW-1
-- Marketing/Verkauf-SW-2
-- Produktion/Vertrieb-SW-1
-- Produktion/Vertrieb-SW-2
-- Produktion/Vertrieb-SW-3
-- Produktion/Vertrieb-SW-4
-- IT-Abteilung-SW-1
-- IT-Abteilung-SW-2
+- Geschäftsleitung/Finanzen-SW
+- Marketing/Verkauf-SW
+- Produktion/Vertrieb-SW
+- IT-Abteilung-SW
+- Sitzungszimmer-SW-1
+- Sitzungszimmer-SW-2
 
 # Netzwerkgeräte
 
@@ -155,6 +164,9 @@
 
 ### IT-Abteilung: 9 Mitarbeiter → 1 AP.
 - AP6
+
+### Sitzungszimmer: 1 AP.
+- AP7
 
 ## Zentraler Router: `RTR-CORE`
 - **Funktion:** Zentrale Verwaltung des Datenverkehrs im Unternehmensnetzwerk.
