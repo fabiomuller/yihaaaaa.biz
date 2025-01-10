@@ -73,5 +73,5 @@ Für weitere Details und die vollständige Dokumentation besuchen Sie die Dateie
 
 ---
 
-*Let's make networking great again!* 🚀
+*Where Every Byte Counts!* 🍪
 
