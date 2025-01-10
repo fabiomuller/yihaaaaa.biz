@@ -140,10 +140,16 @@
 - **Hinweis:** Kein Drucker im Sitzungszimmer.
 
 ## Switch: `<Abteilung>-SW` (z. B. PV-SW)
-- Geschäftsleitung/Finanzen-SW
-- Marketing/Verkauf-SW
-- Produktion/Vertrieb-SW
-- IT-Abteilung-SW
+- Geschäftsleitung/Finanzen-SW 1
+- Geschäftsleitung/Finanzen-SW 2
+- Marketing/Verkauf-SW 1
+- Marketing/Verkauf-SW 2
+- Produktion/Vertrieb-SW 1
+- Produktion/Vertrieb-SW 2
+- Produktion/Vertrieb-SW 3
+- Produktion/Vertrieb-SW 4
+- IT-Abteilung-SW 1
+- IT-Abteilung-SW 2
 - Sitzungszimmer-SW-1
 - Sitzungszimmer-SW-2
 
@@ -172,7 +178,5 @@
 - **Funktion:** Zentrale Verwaltung des Datenverkehrs im Unternehmensnetzwerk.
 
 ## Firewall: `FW-CORE`
-- **Funktion:** Es gibt nur 1 zentrale Firewall, die den gesamten Internetzugang der Firma absichert.
-- **Gesamt:** 1 Firewall.
-
-# Zusammenfassung der Geräte pro Abteilung
+- **Funktion:** Es gibt eine Haupt Firewall, vor dem Router und je eine pro Abteil
+- **Gesamt:** 6 Firewall.
