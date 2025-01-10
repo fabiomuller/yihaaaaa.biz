@@ -77,10 +77,10 @@
 
 ## Switch: `<Abteilung>-SW` (z. B. PV-SW)
 
-- Geschäftsleitung/Finanzen-SW
-- Marketing/Verkauf-SW
-- Produktion/Vertrieb-SW
-- IT-Abteilung-SW
+- Geschäftsleitung/Finanzen-SW 1-2
+- Marketing/Verkauf-SW 1-2
+- Produktion/Vertrieb-SW 1-4
+- IT-Abteilung-SW 1-2
 
 # Netzwerkgeräte
 
