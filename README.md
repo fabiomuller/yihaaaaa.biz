@@ -1,64 +1,77 @@
 # yihaaaaa.biz
 
-# 🚀 Willkommen bei der Netzwerk-Modernisierung von yihaaaaa.biz!  
+# Modernisierung der Netzwerk-Infrastruktur bei yihaaaaa.biz
 
-## 🌟 Projektübersicht  
-Die Zukunft beginnt jetzt! 🖥️ Die Firma **yihaaaaa.biz** hat den Entschluss gefasst, ihre Netzwerk-Infrastruktur auf ein neues Level zu heben. Mit einer klaren Vision, modernster Technologie und einem Hauch von technischem Glamour wird das gesamte Unternehmen digital fit gemacht.  
+## Einführung
+Die Firma yihaaaaa.biz steht vor einem bedeutenden Schritt in die Zukunft: die vollständige Modernisierung ihrer Netzwerk-Infrastruktur. Ziel ist es, ein leistungsfähiges, sicheres und skalierbares Netzwerk zu schaffen, das die wachsenden Anforderungen aller Abteilungen erfüllt und gleichzeitig Platz für zukünftige Erweiterungen lässt. Unsere Lösung vereint modernste Technologien, bewährte Netzwerkkonzepte und eine klare Struktur, um die Effizienz und Sicherheit zu maximieren.
 
-Dieses Repository dokumentiert den vollständigen Planungs- und Umsetzungsprozess unserer Netzwerkmodernisierung: von der Definition der Subnetze über die Auswahl der Geräte bis hin zur detaillierten Konfiguration und dem abschließenden Test.  
+Die Umstellung betrifft alle vier Abteilungen der Firma:
+- **Geschäftsleitung/Finanzen/Rechtsabteilung**: 7 Mitarbeiter
+- **Marketing/Verkauf**: 8 Mitarbeiter und 1 Lernende
+- **Produktion/Vertrieb**: 18 Mitarbeiter und 4 Lernende
+- **IT-Abteilung/Operations**: 7 Mitarbeiter und 2 Lernende
 
----
-
-## 🏢 Projekt-Story: Warum, Wie, Was?  
-
-Unsere Mission:  
-Jede der **4 Abteilungen** von yihaaaaa.biz soll von einer stabilen, skalierbaren und sicheren Netzwerk-Infrastruktur profitieren. Mit einer durchdachten Subnetzstrategie, leistungsfähigen Geräten und einer soliden Firewall stellen wir sicher, dass die tägliche Arbeit reibungslos läuft – und das mit genügend Platz für zukünftiges Wachstum.  
-
-Die Betroffenen:  
-- **Geschäftsleitung/Finanzen/Rechtsabteilung**: 7 Mitarbeiter.  
-- **Marketing/Verkauf**: 8 Mitarbeiter + 1 Lernende.  
-- **Produktion/Vertrieb**: 18 Mitarbeiter + 4 Lernende.  
-- **IT-Abteilung/Operations**: 7 Mitarbeiter + 2 Lernende.  
-
-Unser Ziel: Jede Abteilung erhält ein eigenes Subnetz, ausreichende Sicherheitsmaßnahmen und optimales WLAN für private Geräte und Gäste.  
+Jeder Mitarbeiter und Lernende erhält einen optimal ausgestatteten Arbeitsplatz mit Ethernet-Anschluss, und auch für mobile Geräte sowie Gäste wird durch ein separates WLAN gesorgt.
 
 ---
 
-## 🎯 Kernpunkte der Umsetzung  
-
-### ✅ Vorgaben des IT-Leiters:  
-- **Subnetz-Planung:** Effiziente Nutzung eines Class-B-Netzwerks mit ausreichender Reserve.  
-- **Sicherheit:** Eine zentrale Core-Firewall sowie Abteilungsfirewalls sichern das Netzwerk ab.  
-- **Skalierbarkeit:** Die Infrastruktur lässt Platz für zukünftiges Wachstum.  
-- **WLAN:** Ausschließlich für mobile Geräte der Mitarbeiter und Gäste.  
-
-### 🔧 Verfügbare Geräte:  
-- OPNSense Firewall  
-- Ubiquiti EdgeRouter X  
-- Netgear GS108T Switches  
-- Netgear AccessPoints  
-
-### 🛠️ Unsere Aufgaben:  
-1. **Planung:** Subnetz-Aufteilung, Stückliste und Namenskonvention.  
-2. **Umsetzung:** Installation, Konfiguration und Funktionstests aller Geräte.  
-3. **Dokumentation:** Netzwerkdiagramm, Subnet-Tabelle, Betriebshandbuch und Testprotokoll.  
+## Zielsetzung
+Die Modernisierung der Netzwerk-Infrastruktur soll folgende Anforderungen erfüllen:
+- Bereitstellung eines privaten Class-B-Netzwerks mit effizienter Subnet-Aufteilung pro Abteilung.
+- Ausreichende Kapazität für zukünftiges Wachstum in jeder Abteilung.
+- Sichere Trennung der Abteilungsnetzwerke durch Subnetze und Firewalls.
+- Nahtlose Unterstützung für kabelgebundene und drahtlose Geräte.
+- Optimale Performance durch modernste Netzwerkgeräte.
 
 ---
 
-## 📂 Inhalte dieses Repositories  
+## Highlights der Lösung
+1. **Klar strukturierte Subnetze:**
+   - Jedes Subnetz ist optimal dimensioniert und bietet Reserveadressen für zukünftige Erweiterungen.
 
-1. **Netzwerk-Diagramm:** Ein visuelles Schema des Netzwerks, das alle Abteilungen, Subnetze und Geräte zeigt.  
-2. **Subnetz-Planung:** Eine übersichtliche Tabelle mit allen reservierten IP-Bereichen.  
-3. **Stückliste:** Alle benötigten Geräte mit Preisen und Verfügbarkeit.  
-4. **Namenskonvention:** Ein durchgängiges Schema für die Benennung aller Geräte.  
-5. **Testprotokoll:** Ergebnisse und Nachweise der durchgeführten Tests.  
-6. **Betriebshandbuch:** Praktische Anleitung für die Wartung und Fehlerbehebung.  
+2. **Hochwertige Hardware:**
+   - Einsatz von OPNSense Firewalls, Ubiquiti EdgeRoutern, Netgear GS108T Switches und Netgear Access Points für ein robustes und skalierbares Netzwerk.
+
+3. **Optimales WLAN:**
+   - Exklusives WLAN für mobile Geräte und Gäste mit optimaler Abdeckung durch strategisch platzierte Access Points.
+
+4. **Zentrale Sicherheitslösung:**
+   - Eine zentrale Core-Firewall schützt den gesamten Internetzugang, ergänzt durch Abteilungsfirewalls.
+
+5. **Effiziente Netzwerkplanung:**
+   - Klare Namenskonventionen und detaillierte Subnet-Tabellen erleichtern das Management und die Wartung.
 
 ---
 
-## 💡 Warum das alles wichtig ist  
-Ein modernes, sicheres und skalierbares Netzwerk ist das Rückgrat eines erfolgreichen Unternehmens. Mit dieser Modernisierung hebt sich yihaaaaa.biz auf ein neues technologisches Niveau und ist bereit, mit Volldampf in die Zukunft zu starten. 🚀  
+## Inhalte dieses Repositories
+Dieses Repository enthält alle Planungs- und Umsetzungsdokumente zur Modernisierung des Netzwerks:
 
-Viel Spaß beim Erkunden unserer Lösung! 🎉  
+1. **Netzwerk-Diagramm:**
+   - Übersicht über alle Abteilungen, Subnetze und Netzwerkgeräte.
+
+2. **Subnet-Aufteilung:**
+   - Detaillierte Tabelle mit IP-Bereichen für Geräte, Server, Drucker und mobile Geräte.
+
+3. **Stückliste:**
+   - Übersicht der benötigten Hardware mit Preisen und Verfügbarkeit.
+
+4. **Namenskonventionen:**
+   - Einheitliche Bezeichnung für alle Netzwerkkomponenten.
+
+5. **Testprotokoll:**
+   - Dokumentation der Tests zur Sicherstellung der Funktionalität.
+
+6. **Betriebshandbuch:**
+   - Anleitung für Konfiguration, Wartung und Fehlerbehebung.
 
 ---
+
+## Fazit
+Mit dieser Modernisierung erhält yihaaaaa.biz eine zukunftssichere und leistungsstarke Netzwerk-Infrastruktur, die den Anforderungen der Gegenwart gerecht wird und gleichzeitig Raum für weiteres Wachstum bietet.
+
+Für weitere Details und die vollständige Dokumentation besuchen Sie die Dateien in diesem Repository.
+
+---
+
+*Let's make networking great again!* 🚀
+
