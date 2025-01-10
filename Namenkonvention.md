@@ -152,6 +152,8 @@
 - IT-Abteilung-SW 2
 - Sitzungszimmer-SW-1
 - Sitzungszimmer-SW-2
+- Core-SW 1
+- Core-SW 2
 
 # Netzwerkgeräte
 

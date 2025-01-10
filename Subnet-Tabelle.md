@@ -28,11 +28,55 @@
 |                                   |                       |                   |                    | **Marketing/Verkauf-SW-1**             | 172.16.0.45            |
 |                                   |                       |                   |                    | **Marketing/Verkauf-SW-2**             | 172.16.0.46            |
 | **Verfügbare Reserve IPs**        |                       |                   |                    | **Reserve 1-16**                       | 172.16.0.47 - 172.16.0.63|
+| **Produktion/ Vertrieb**          | 172.16.0.65 - 172.16.0.128 /26 | 255.255.255.192   | 64-2               | **Produktion/Vertrieb-LP-1**            | 172.16.0.66            |
+|-----------------------------------|-------------------------------|-------------------|--------------------|---------------------------------------|------------------------|
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-2**            | 172.16.0.67            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-3**            | 172.16.0.68            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-4**            | 172.16.0.69            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-5**            | 172.16.0.70            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-6**            | 172.16.0.71            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-7**            | 172.16.0.72            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-8**            | 172.16.0.73            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-9**            | 172.16.0.74            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-10**           | 172.16.0.75            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-11**           | 172.16.0.76            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-12**           | 172.16.0.77            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-13**           | 172.16.0.78            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-14**           | 172.16.0.79            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-15**           | 172.16.0.80            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-16**           | 172.16.0.81            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-17**           | 172.16.0.82            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-18**           | 172.16.0.83            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-19**           | 172.16.0.84            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-20**           | 172.16.0.85            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-21**           | 172.16.0.86            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-22**           | 172.16.0.87            |
+|                                   |                               |                   |                    |**AP3**                                 | 172.16.0.88            |
+|                                   |                               |                   |                    |**AP4**                                 | 172.16.0.89            |
+|                                   |                               |                   |                    |**AP5**                                 | 172.16.0.90            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-PRT**              | 172.16.0.91            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-SRV**              | 172.16.0.92            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-SW-1**             | 172.16.0.93            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-SW-2**             | 172.16.0.94            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-SW-3**             | 172.16.0.95            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-SW-4**             | 172.16.0.96            |
+| **Verfügbare Reserve IPs**        |                               |                   |                    | **Reserve 1-16**                       | 172.16.0.97 - 172.16.0.127|
+| **IT Abteilung/ Operations**    | 172.16.0.32 - 172.16.0.64 /27 | 255.255.255.224   | 32-2               | **Marketing/Verkauf-LP-1**             | 172.16.0.33            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-2**             | 172.16.0.34            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-3**             | 172.16.0.35            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-4**             | 172.16.0.36            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-5**             | 172.16.0.37            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-6**             | 172.16.0.38            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-7**             | 172.16.0.39            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-8**             | 172.16.0.40            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-LP-9**             | 172.16.0.41            |
+|                                   |                       |                   |                    |**AP2**                                 | 172.16.0.42            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-PRT**              | 172.16.0.43            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-SRV**              | 172.16.0.44            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-SW-1**             | 172.16.0.45            |
+|                                   |                       |                   |                    | **Marketing/Verkauf-SW-2**             | 172.16.0.46            |
+| **Verfügbare Reserve IPs**        |                       |                   |                    | **Reserve 1-16**                       | 172.16.0.47 - 172.16.0.63|
 
-
-|Marketing/ Verkauf|   |   |   |   |
-|Produktion/ Vertrieb|   |   |   |   |
-|IT Abteilung/ Operations|   |   |   |   |
 
 Hier ist eine detaillierte **Subnet-Tabelle mit allen reservierten Bereichen**, inklusive Systemgeräten, Mitarbeiter-Laptops/PCs, mobilen Geräten, Access Points, Druckern und Abteilungsservern:
 
@@ -181,3 +225,35 @@ Got it! Here's how the table can be structured to display everything in one tabl
 Dieses Format kann für jede weitere Abteilung angewendet werden, indem du die **IP-Range**, **Subnetzmaske**, und **Geräte** je nach Abteilung anpasst. 
 
 Falls du eine detailliertere oder vollständige Tabelle für alle Abteilungen wünschst, lass es mich wissen, und ich helfe dir dabei, sie entsprechend zu gestalten. 😊
+
+
+
+Kein Problem! Hier ist die angepasste Liste, die bei **Produktion/Vertrieb-LP-1** mit der IP-Adresse **172.16.0.66** beginnt und nur die Laptops (also **Produktion/Vertrieb-LP-X**) enthält:
+
+| **Produktion/ Vertrieb**          | 172.16.0.65 - 172.16.0.128 /26 | 255.255.255.192   | 64-2               | **Produktion/Vertrieb-LP-1**            | 172.16.0.66            |
+|-----------------------------------|-------------------------------|-------------------|--------------------|---------------------------------------|------------------------|
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-2**            | 172.16.0.67            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-3**            | 172.16.0.68            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-4**            | 172.16.0.69            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-5**            | 172.16.0.70            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-6**            | 172.16.0.71            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-7**            | 172.16.0.72            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-8**            | 172.16.0.73            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-9**            | 172.16.0.74            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-10**           | 172.16.0.75            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-11**           | 172.16.0.76            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-12**           | 172.16.0.77            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-13**           | 172.16.0.78            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-14**           | 172.16.0.79            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-15**           | 172.16.0.80            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-16**           | 172.16.0.81            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-17**           | 172.16.0.82            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-18**           | 172.16.0.83            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-19**           | 172.16.0.84            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-20**           | 172.16.0.85            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-21**           | 172.16.0.86            |
+|                                   |                               |                   |                    | **Produktion/Vertrieb-LP-22**           | 172.16.0.87            |
+
+Die Liste beginnt jetzt bei **172.16.0.66** für den ersten Laptop und endet mit **172.16.0.87** für den 22. Laptop. Die restlichen Teile der Tabelle (z. B. Netzwerkmaske, IP-Bereich) bleiben unverändert, wie du sie anpassen möchtest.
+
+Lass mich wissen, falls du noch Änderungen benötigst!
