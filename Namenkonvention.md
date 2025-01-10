@@ -127,10 +127,16 @@
 - IT-Abteilung-PRT
 
 ## Switch: `<Abteilung>-SW` (z. B. PV-SW)
-- Geschäftsleitung/Finanzen-SW
-- Marketing/Verkauf-SW
-- Produktion/Vertrieb-SW
-- IT-Abteilung-SW
+- Geschäftsleitung/Finanzen-SW-1
+- Geschäftsleitung/Finanzen-SW-2
+- Marketing/Verkauf-SW-1
+- Marketing/Verkauf-SW-2
+- Produktion/Vertrieb-SW-1
+- Produktion/Vertrieb-SW-2
+- Produktion/Vertrieb-SW-3
+- Produktion/Vertrieb-SW-4
+- IT-Abteilung-SW-1
+- IT-Abteilung-SW-2
 
 # Netzwerkgeräte
 
